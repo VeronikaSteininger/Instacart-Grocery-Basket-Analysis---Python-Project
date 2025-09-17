@@ -9,18 +9,29 @@ They want to target different customers with applicable marketing campaigns to s
 The analysis shall inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.
 
 # Key Questions
+
 ● what are the busiest days of the week and hours of the day? In order to schedule ads at times when there are fewer orders.
+
 ● Are there particular times of the day when people spend the most money? As this might inform the type of products they advertise at these times.
+
 ● How could simpler price range groupings look like?
+
 ● Are certain types of products that are more popular than others? Which departments have the highest frequency of product orders?
+
 ● Information on different types of customers and how their ordering behaviors differ.
+
 ○ What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+
 ○ Are there differences in ordering habits based on a customer’s loyalty status?
+
 ○ Are there differences in ordering habits based on a customer’s region?
+
 ○ Is there a connection between age and family status in terms of ordering
 habits?
+
 ○ What different classifications does the demographic information suggest?
 Age? Income? Certain types of goods? Family status?
+
 ○ What differences can you find in ordering habits of different customer
 profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
